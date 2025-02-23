@@ -1,9 +1,52 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# SocialFeed App
+<h3>IOS App</h3>
+<div align="center">
+    <img src="screenshot/ios/1.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/2.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/3.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/4.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/5.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/6.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/7.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/ios/8.png" alt="Screenshot" height="400px width="300px"</img>
+</div>
 
-# Getting Started
+https://github.com/user-attachments/assets/cd124e41-ed01-46b4-9a2e-26caeef61da4
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+<h3>Android App</h3>
+<div align="center">
+    <img src="screenshot/android/Screenshot_2025-02-23-10-35-47-17_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-05-16_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-35-39-70_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-15-13_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-19-22_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-22-42_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-26-18_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-32-57_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+    <img src="screenshot/android/Screenshot_2025-02-23-10-36-39-63_011d4eb939037472b09600a6f29ac06d.jpg" alt="Screenshot" height="400px width="300px"</img>
+</div>
 
+https://github.com/user-attachments/assets/22962375-4ffd-439f-bdd3-1f81746d5d44
+
+<hr />
+<h3>Installation and Usage</h3>
+<hr />
+
+Download or clone this repo by using the below link:
+
+```
+git clone https://github.com/SagarMandani/SocialFeed.git
+```
+
+Go to project root folder
+
+```
+cd SocialFeed
+```
+
+```
+npm or yarn install
+```
 ## Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
